@@ -1,0 +1,30 @@
+C:\Users\computer house\source\repos\Library Management\Library Management\bin\Debug\net6.0\Library Management.exe
+C:\Users\computer house\source\repos\Library Management\Library Management\bin\Debug\net6.0\Library Management.deps.json
+C:\Users\computer house\source\repos\Library Management\Library Management\bin\Debug\net6.0\Library Management.runtimeconfig.json
+C:\Users\computer house\source\repos\Library Management\Library Management\bin\Debug\net6.0\Library Management.dll
+C:\Users\computer house\source\repos\Library Management\Library Management\bin\Debug\net6.0\Library Management.pdb
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.csproj.AssemblyReference.cache
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.AssemblyInfoInputs.cache
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.AssemblyInfo.cs
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.dll
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\refint\Library Management.dll
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.pdb
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\Library Management.genruntimeconfig.cache
+C:\Users\computer house\source\repos\Library Management\Library Management\obj\Debug\net6.0\ref\Library Management.dll
+D:\Library Management\Library Management\bin\Debug\net6.0\Library Management.exe
+D:\Library Management\Library Management\bin\Debug\net6.0\Library Management.deps.json
+D:\Library Management\Library Management\bin\Debug\net6.0\Library Management.runtimeconfig.json
+D:\Library Management\Library Management\bin\Debug\net6.0\Library Management.dll
+D:\Library Management\Library Management\bin\Debug\net6.0\Library Management.pdb
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.csproj.AssemblyReference.cache
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.AssemblyInfoInputs.cache
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.AssemblyInfo.cs
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.csproj.CoreCompileInputs.cache
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.dll
+D:\Library Management\Library Management\obj\Debug\net6.0\refint\Library Management.dll
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.pdb
+D:\Library Management\Library Management\obj\Debug\net6.0\Library Management.genruntimeconfig.cache
+D:\Library Management\Library Management\obj\Debug\net6.0\ref\Library Management.dll
