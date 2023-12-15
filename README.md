@@ -1,4 +1,4 @@
-# Library-MANAGEMENT-SYSTEM-USING-ADO.NET-OOP---DS-
+# Library-MANAGEMENT-SYSTEM-USING-OOP-DATASTRUCTURES
 
 In this case study, you will learn how to implement the principles of object-oriented programming
 by building a simple library management system. The system will allow users to add, view, and
